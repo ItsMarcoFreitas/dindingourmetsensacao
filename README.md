@@ -1,4 +1,4 @@
-DinDin Gourmet Sensação 🍧
+🍧
 DinDin Gourmet Sensação é um projeto de marketplace especializado na venda de dindins (sacolé, geladinho) gourmet. O site foi desenvolvido para oferecer uma experiência intuitiva e eficiente, permitindo que os usuários visualizem o menu, adicionem produtos ao carrinho e finalizem seus pedidos diretamente pelo WhatsApp.
 
 🌟 Funcionalidades
