@@ -42,7 +42,7 @@ Clone este repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/dindin-gourmet-sensacao  
+git clone https://github.com/seu-usuario/dindin-gourmet-sensacao.git  
 Abra o arquivo index.html em qualquer navegador.
 
 Explore o menu, adicione produtos ao carrinho, e finalize seu pedido!
