@@ -235,7 +235,7 @@ checkOutBtn.addEventListener("click", function () {
       changeFor ? `\n\n${changeFor}` : ""
     }`
   );
-  const phone = "+558388139191"; // Substitua pelo número do seu WhatsApp
+  const phone = "+559999999999"; 
 
   // Enviar o pedido via WhatsApp
   window.open(`https://wa.me/${phone}?text=${message}`, "_blank");
